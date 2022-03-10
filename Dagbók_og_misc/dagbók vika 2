@@ -1,0 +1,141 @@
+---------------------------------------
+30.11.20
+---------------------------------------
+Færsla 1, morgunfundur:
+fyrirlestur kl 09:00 - 11:00
+
+
+Færsla 2, samantekt dagsins:
+Samantekt:
+við skiptum okkur í hópa og ákvörðum hvaða layer hver og einn áttu að fara í
+Við kláruðum fínpússunina og settum up gitt og það var kóðað smá
+
+Einstaklings samantekt:
+Hallur:
+var að vinna með val í klasaritinu og kláruðum fínpússunina af klasaritinu
+Logi:
+
+Robin: Ég og logi vorum í að setja upp beinagrindina frá kl 11:00 - 16:45 sjá git history.
+
+Valur:
+fór á zoom funnd og discord fund með gylfa: fór svo í að laga class diagramm
+ eftir að hafað talað við dæma tíma kennara og skoðað comment á skýrslu (viku1)
+
+
+Ólafur:
+Vann í data files
+
+Úllfur:
+Vann á grófri hönnun og test-aði prototype fyrir starfmanna klasa
+
+---------------------------------------
+01.12.20
+---------------------------------------
+Færsla 1, morgunfundur:
+farið var í að skipta og skipuleggja verkefni á milli sín og velja í hópa svo voru stakir hópar að ræða milli sín 
+hverning á að framkvæma verkið.
+
+
+Færsla 2, samantekt dagsins:
+Samantekt:
+Allir voru að vinna sinn hluta í að kóða mest allt eftir hádegi.
+
+
+Einstaklings samantekt:
+Hallur:
+vorum að kóða í logic layerinn og plönuðum í dag hvernig við ættum að kóða þetta
+Logi:
+
+Robin: vann með loga að setja upp model layer og erum næstum því búnir í dag.
+
+Valur:
+vann við að kóða LL-Annað skjalið 
+
+Ólafur:
+Vann við grunn útfærslu á UIMain klasa og data files
+
+Úllfur:
+Vann við grunn útfærslu á UIMain klasa
+
+---------------------------------------
+02.12.20
+---------------------------------------
+Færsla 1, morgunfundur:
+tekið var saman fund  og skipt milli sín hlutverk.
+
+
+Færsla 2, samantekt dagsins:
+Samantekt:
+dagurinn fór vel þar sem allir voru að vinna í sinn hluta að útfæra 3 layer.
+
+Einstaklings samantekt:
+Hallur:
+vorum að vinna í logic layer
+Logi:
+Var að vinna í data layer. Og setja betur upp Trello.
+Robin: vann með loga í að setja upp models og hluti af data.
+
+Valur:
+var að vinna í LL faratæki í allan dag
+
+Ólafur:
+vann við útfærslu txt file-a fyrir forritið
+Úllfur:
+Vann við útfærslu txt file-a fyrir forritið, setti upp functions í trello
+---------------------------------------
+03.12.20
+---------------------------------------
+Færsla 1, morgunfundur:
+ vorum allir að vinna í sinn hluta af þvi að kóða.
+
+
+Færsla 2, samantekt dagsins:
+Samantekt:
+haldið var áfram með að útfæra lausnir fyrir verkefnið.
+
+
+Einstaklings samantekt:
+Hallur:
+vann í leigusmaningnum og logicmain.py
+Logi:
+
+Robin: vann í models að laga.
+
+Valur:
+vanní annad og logic main í kringum LLvehicle og LLemployee klasana
+
+Ólafur:
+Lagaði txt files og ui
+
+Úllfur:
+vann við uppfæringu txt file-a og test á pörtum forrits
+---------------------------------------
+04.12.20
+---------------------------------------
+Færsla 1, morgunfundur:
+haldið var áfram við að útfæra lausnir.
+
+
+Færsla 2, samantekt dagsins:
+Samantekt:
+voru allir að vinna í sinn hluta og einning komu inn nýjar hugmyndir og betri lausnir og ákveðið var að 
+halda áfram á morgun kl 13:00.
+
+
+Einstaklings samantekt:
+Hallur:
+var að vinna mjög mikið í leiga clasanum
+Logi:
+
+Robin: vann í að reyna útfæra data og lagfæra logic með loga.
+
+Valur:
+var að vinna við annað klasa fékk gat sagt frá hvernig ID ætti að virka og það var partialy imlpementað og model klasar voru bætti til að passa við verkefna lísingu
+
+Ólafur:
+Ég skipti leiga.txt í leigandi.txt og leiga.txt og bætti við færslur í text files og fór yfir hvort allt var legit
+
+Úllfur:
+Bjót til test forrit sem vann við að lesa txt file og útfæra directory lista með starfsmönnum
+
+---------------------------------------

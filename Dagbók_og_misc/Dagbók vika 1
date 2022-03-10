@@ -1,0 +1,170 @@
+23.11.20
+Færsla 1, morgunfundur:
+-Kynntumst hvor öðrum, byrjuðum að plana verkefnið
+
+Færsla 2, samantekt dagsins:
+Samantekt:
+-Byrjuðum á að setja upp github.
+-Settum upp Teams.
+  línkur á teams: https://teams.microsoft.com/l/team/19%3a21b69ac546114c55adc86ff3d5431155%40thread.tacv2/conversations?groupId=9a99627c-3393-4ce5-96f2-3b08dabf3718&tenantId=94d92b60-e6fa-43c0-8005-e73e02812c34
+
+-Settum upp check lista fyrir hvern dag (sjá á teams).
+-Plönuðum hvað við ætlum að gera á morgunn.
+- Kröfulistinn var búinn til.
+
+Einstaklings samantekt:
+Hallur:
+Byrjaði kröfulistan
+
+Logi:
+Setti upp Github og dagbókina
+Robin: aðstoðaði loga með git og aðstoðaði með framtíða plön 
+
+Valur:
+Rökræddi framtíð verkefnsins
+
+Ólafur:
+Rökræddi framtíð verkefnsins
+
+
+Úlfur:
+Rökræddi um framtíð verkefnins
+
+24.11.20
+Færsla 1, morgunfundur:
+-Fórum yfir kröfulistann sem við gerðum í gær. Skiftum okkur svo í hópa til að tækla 
+notkunartilvik(Logi og Úlfur), Klasarit(Robin og Hallur) og Stöðurit(Valur og Ólafur)
+með fókus á A-hluta.
+
+
+
+Færsla 2, samantekt dagsins:
+Samantekt:
+Úlfur og Logi settu saman notkunartilvikin (e. use cases)
+Robin og Hallur settu saman klasariti (e. Class diagram)
+Valur og Ólafur settu saman stöðuritum (e. State diagram)
+Valur og Ólafur settu saman notendahópgreiningu
+Unnið var svo saman að plana framtíðar verk
+Plönuðum svo saman nærsta dag.
+
+
+Einstaklings samantekt:
+Hallur:
+Gerði Nafnoðragreininguna með Robin og fór langt með klasaritin og mun halda áfram með það á morgunn og fleira
+
+Logi:
+Hreinskrifaði notkunartilvik (e. use cases) og fór yfir.
+
+Robin: 
+Gerði nafnorða greining með Halli og svo kom Valur inn seinni part til að vera með í  klasarit og gerði helling og svo var endað deginum um 4, rétt áður var planað morgunn daginn.
+
+Valur:
+Gerði notendahópa greininguna fór svo eftir það, að fara létt yfir klasarit með Ólafi og byrjaði svo að hjálpa Robin og Halli með klasaritið endaði dagin kl sirka 4
+
+Ólafur:
+Gerði notendahópa greininguna
+
+Úlfur:
+Setti saman notkunartilvik (e. use cases) og fór yfir
+
+
+25.11.20
+Færsla 1, morgunfundur:
+<<<<<<< HEAD
+
+Höldum áfram með að klára klasarit, settum okkur einnning upp fyrir daginn,hönnun af stöðurit fór af stað og klárað og síðast en ekki síst  var byrjað á lofi prototype.
+=======
+við ætlum að klára class diagram og Stöðuritið og byrja á Útlitshönnun
+
+>>>>>>> e90c493e6094724230e40870bfa052f5c0bb0765
+
+
+Færsla 2, samantekt dagsins:
+Samantekt:
+Daguinn nýttis vel í að klára klasarit, stöðuritið var einning klárað og lofi prototype fór afstað.
+Seinni part var farið saman yfir klasarit og byrjað á B hluta(Noun identification) og eftir á var lagt verkefni dagsins.
+
+
+Einstaklings samantekt:
+Hallur:
+
+Logi:
+<<<<<<< HEAD
+
+Robin: mjög skemmtilegur vinnu dagur þar sem ég hallur og valur voum í að klára og fín pússa klasaritið svo var tekið. Hópfund til að fara saman yfir klasaritið með öllum. Að lokum var farið saman í noun idendification og búið til verkefni fyrir morgun deginum.
+=======
+Byrjaði með ólafi á stöðuritinu og við náðum að klára það.
+Svo fórum við ólafur, ég og Úlfur að byrja vinnu á lofi prototípu.
+Robin:
+>>>>>>> e90c493e6094724230e40870bfa052f5c0bb0765
+
+Valur:
+gerði klasarit með hinum (noun idetification og alt)
+
+Ólafur:
+vann í lo fi prótótýpunni og söðuritinu
+
+Úlfur:
+bjó til byrjuninn fyrir lo fi prototype
+
+26.11.20
+Færsla 1, morgunfundur:
+
+Við erum búinn að nafnorða greina b hlut, halda afram með lofi prototypuna og  ætlum að plana skýrluna kl 3.
+
+
+
+Færsla 2, samantekt dagsins:
+Samantekt: 
+
+Lofi prototypan orðinn klár, en class diagram þaarf að breytast í 3 layer síaðsta lagi á morgun fyrir hádegi.
+Mikil vinna var lögð í að klára noun identification fyrir b hlutan svo class diagram gæti verið klár.
+
+
+
+Einstaklings samantekt:
+Hallur:
+Kláruðum nafnorðagreininguna og fórum í að gera b-hlutan í klasaritinu
+Logi:
+
+Robin: Lagði vinnu í að klára class diagram og reyndi svo að skilja endur hönnun á class diagram.
+
+Valur: vvann í klasaritinu alland daginn
+
+Ólafur:
+Vann í klasaritinu
+
+Úlfur:
+Kláraði lo fi prototype
+
+27.11.20
+Færsla 1, morgunfundur:
+Fyrri part dagsins fór í að klára allt sem þurfti og undir búa skýrsluna.
+
+
+
+
+Færsla 2, samantekt dagsins:
+Samantekt:
+Sienni part for í að búa til skýrsluna allir tóku þátt í að gera hana, sett var upp allt í einu skjali og skilað inn sem pdf skjal.
+
+
+Einstaklings samantekt:
+Hallur:
+kláraði klasaritið með Vali
+Logi:
+Gleymdi að skrifa inn, en vann að gera skýrsluna og fara yfir stöðuritin.
+
+Robin: vann í að setja upp skýrluna ásamt öllum hinum sem eru með í hóp daguinn gekk vel og skilaði inn pdf skjal kl 19.00 ca
+
+Valur: vann í klasa ritinu fyrir skýrsluna frá kl 9:30 og setti það svo inn í skýrsluna í kríngum 5
+
+Ólafur:
+vann í skýrslunni
+
+Úlfur:
+vann við skýrslugerð
+
+
+
+

@@ -1,0 +1,71 @@
+ui_loop    
+    logic.all_employees 
+        "Ná í allt info úr um starfsmenn úr datalayerinum (nafn, heimilisfang, tölvupóstur, símanúmer, heimasími og staðsetning)"
+
+    logic.create_employee
+        "plúsa nýjan lista (create_employee) við all_employees"
+
+    logic.change_employee
+        "breyta ákveðnum starfsmanni
+
+    logic.delete_employee
+        "Eyða starfsmanni"
+
+
+    logic.all_vehicles
+        "--||--"
+
+    logic.create_vehicle
+        "--||--"
+
+    logic.change_vehicle
+        "--||--"
+
+    logic.delete_vehicle
+        "--||--"
+
+
+    logic.all_locations
+        "--||--"
+
+    logic.create_location
+        "--||--"
+
+    logic.change_location
+        "--||--"
+
+    logic.delete_location
+        "--||--"
+
+
+    logic.all_contracts
+        "--||--"
+
+    logic.create_contract
+        "--||--"
+
+    logic.change_contract
+        "--||--"
+
+    logic.delete_contract
+        "--||--"
+
+
+    logic.position
+        "hugsað sem að finna position eða ID af starfsmanni"
+
+    logic.date_check
+        "checka hvort dagsetning sé til"
+
+
+    logic.income_overwiew
+        "ná í bifreiðartegundir (A,B,C), leigu og áfangastaði, til að prenta út hvað tekjurnar eru á hverri tegund á hverjum áfangastað."
+
+    logic.utilizization_of_vehicles
+        "ná í bifreiðartegundir og staðsetningar"
+
+    logic.account_overwiew
+        "leita að öllum leigum á ákveðnu tímabili"
+
+    logic.print_contracts
+        "ná í staðsetningu, leigu og bifreið eftir ID. ID í leigu er tengd við manneskju, manneskja er tengd við bílplötu, bílplata er tengd við bifreið og bifreið er tengd við staðsetningu."

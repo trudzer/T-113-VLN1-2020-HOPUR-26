@@ -1,0 +1,6 @@
+1,Reykjavík,Ísland,Reykjavík International,+354-543-0001,06:00-23:00,
+2,Nuuk,Grænland,Nuuk International,+299-00-41-68,06:00-22:00,
+3,Longyearbyen,Svalbarður,Longyearbyen Airport,+47-80-31-22-15,09:00-20:00,
+4,Þórshöfn,Færeyjar,Tórshavn International,+289-11-10-31,07:00-22:00,
+5,Tingwall,Hjaltlandseyjar,Tingwall Airport,+44-1806-309-924,10:00-19:00,
+6,Kulusuk,Grænland,Kulusuk Airport,+299-92-51-39,09:00-20:00,

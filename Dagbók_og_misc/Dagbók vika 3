@@ -1,0 +1,141 @@
+---------------------------------------
+07.12.20
+---------------------------------------
+Færsla 1, morgunfundur:
+
+
+
+Færsla 2, samantekt dagsins:
+Samantekt:
+vorum allir að vinna í klára data layer og vorum við að koma okkkur lengra í logic og ui layer.
+
+
+Einstaklings samantekt:
+Hallur:
+kláruðum data clasan og unnum smá í logic klasan
+Logi:
+
+Robin: hjáplaði við að klára data layer og byrja eitthvað í logic layer.
+
+Valur:
+bjótil yfirferðar kóðan fyrir faratæki og starfsmenn
+
+
+Ólafur:
+hjálpaði val, gleymdi að vista hluta af progressinu mínu frá því á föstudaginn. Þurfti að gera leiga.txt aftur
+
+
+Úllfur:
+gerði test fyrir útfærslu á UIMain til að tengjast við aðra klasa
+
+---------------------------------------
+08.12.20
+---------------------------------------
+Færsla 1, morgunfundur:
+-
+
+
+Færsla 2, samantekt dagsins:
+Samantekt:
+unnið var í logic layer og sett ákveðin hlutir í forgang fyrir morgunn daginn.
+
+
+Einstaklings samantekt:
+Hallur:
+vann í logic main og útfærði villu check við að bæta staðsetningu og fleira. 
+Logi:
+
+Robin: vann eitthvað í logic layer gerði ekki mikið í dag.
+
+Valur: vann í logic layer og var að skoða villur og fleira
+
+
+
+Ólafur:
+Vann í model.leigja.py villuskilaboðum
+
+Úllfur:
+prófaði mismunandi samsetningar á klösum fyrir  UI
+---------------------------------------
+09.12.20
+---------------------------------------
+Færsla 1, morgunfundur:
+allir voru að vinna í að klára kóðan og skýrslugerð uppsettning hófst.
+
+
+Færsla 2, samantekt dagsins:
+Samantekt:
+allir unnu vel og mest allt komið, og skipulagt var siðustu 2 daga og gefinn út hlutverk og sett niður deadline.
+
+Einstaklings samantekt:
+Hallur:
+Var að vinna mjög mikið í logicMain
+Logi:
+
+Robin: vann í að setja upp hvað á að koma í skýrlsuna og hverning á að útfæra það ætti að vera tilbúið á morgun.
+
+Valur:
+gera hitt og þetta í kóðanum á með an var ég að vinna við klass diagram
+
+
+Ólafur:
+vann í model.leigja.py og lagaði leiga.py
+
+
+Úllfur:
+Vann við að útfæra lista og setja upp UIMain LogicMain og DataMain
+---------------------------------------
+10.12.20
+---------------------------------------
+Færsla 1, morgunfundur:
+
+
+
+Færsla 2, samantekt dagsins:
+Samantekt:
+
+
+Einstaklings samantekt:
+Hallur:
+Vann mjög mikið í logic main, lagaði fullt af villum og útfærði nokkra klasa 
+Logi:
+
+Robin: 
+
+Valur:
+vann í class diagram og var að fara yfir með öllum svo fó að vinna við að blanda ui kerfi við LLmain og DataMain sem allir höfðu unnið í til kl 5:50
+
+
+Ólafur:
+Vann í skýrslunni. Lagaði leiga.txt text skjalið. Vann í Email validator fyrir leigja.py og byrjaði að commenta
+
+
+Úllfur:
+Kláraði UIMain LogicMain og DataMain, útfæra user friendly prentun á leigusamning, skrá, breyta og eyða gögnum úr txt file og útfæra lista af öllum viðeigandi
+upplýsingum fyrir starfsmenn, áfangastaði, farartæki, og leigu
+---------------------------------------
+11.12.20
+---------------------------------------
+Færsla 1, morgunfundur:
+
+
+
+Færsla 2, samantekt dagsins:
+Samantekt:
+
+
+Einstaklings samantekt:
+Hallur:
+erum að fín pússa kóðan
+Logi:
+
+Robin: 
+
+Valur:
+
+
+Ólafur:
+Vann í skýrslunni
+
+Úlfur:
+vann við myndbandsgerð
